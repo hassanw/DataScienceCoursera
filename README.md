@@ -1,4 +1,6 @@
-datasciencecoursera
+Data Science Certification Track
 ===================
 
-The Data Scientist's Toolbox Repository for Course Project
+Repository for all courses of Data Science Certification Track offered on Coursera by Johns Hopkins University. 
+
+
